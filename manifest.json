@@ -45,8 +45,8 @@
     "density": "4.0"
    }
  ],
- "start_url": "",
- "scope": "",
+ "start_url": "/bdayview/",
+ "scope": "/bdayview/",
  "background_color": "#121212",
  "display": "standalone",
  "theme_color": "#e91e63"
